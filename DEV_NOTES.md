@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Tested build on clean environment
 - Verified compatibility with latest runtime version
+
+## 2026-05-13
+- Cleaned up old debug logs
+- Added CONTRIBUTING.md stub
+- Verified compatibility with latest runtime version
