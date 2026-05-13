@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Added CONTRIBUTING.md stub
 - Tested build on clean environment
+
+## 2026-05-13
+- Checked for memory leaks in long-running path
+- Tested build on clean environment
+- Verified compatibility with latest runtime version
